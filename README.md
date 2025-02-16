@@ -5,10 +5,9 @@
 
 ## 📌 Introduction
 Subversion (SVN) is a version control system that helps manage changes to files and directories over time. This guide walks you through setting up an SVN server on Linux, configuring users, creating branches, merging changes, and resolving common errors in an easy-to-follow manner.
-<video width="640" height="360" controls>
-  <source src="SVN.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[🎥 Watch the SVN Demo](https://github.com/mitul-2210/DevOps/raw/main/SVN.mp4)
+
 
 
 ---
